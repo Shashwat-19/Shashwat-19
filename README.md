@@ -14,7 +14,8 @@
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
 
-⚡
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ </div>
 
 <div align="center"> 
   <a href="shashwat1956@gmail.com">
