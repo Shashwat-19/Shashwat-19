@@ -10,7 +10,11 @@ UI/UX Designer | Web Developer
 
 A creative and versatile web designer with a strong foundation in UX/UI, adept at crafting engaging digital experiences using HTML, CSS, and JavaScript. competent in a variety of programming languages, such as Python, Java, Kotlin, C, and C++, and adept at converting technical understanding into useful, significant solutions. seasoned event coordinator known for spearheading team projects and increasing user involvement in various projects.
 
-
+* 🌍  I'm based in Bangalore, India
+* 🖥️  See my portfolio at [Linkedin.!](http://https://www.linkedin.com/in/shashwatk1956/)
+* ✉️  You can contact me at [shashwat1956@gmail.com](mailto:shashwat1956@gmail.com)
+* 🧠  I'm learning React.js
+* 🤝  I'm open to collaborating on JAVA Projects
 
 ### Skills
 
