@@ -30,7 +30,7 @@ A creative and versatile web designer with a strong foundation in UX/UI, adept a
 
 ### Badges
 
-<b>My GitHub Stats</b>
+
 
 <a href="http://www.github.com/Shashwat-19"><img src="https://github-readme-stats.vercel.app/api?username=Shashwat-19&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Shashwat-19's GitHub stats" /></a>
 
