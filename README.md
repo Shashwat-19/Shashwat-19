@@ -16,6 +16,7 @@ A creative and versatile web designer with a strong foundation in UX/UI, adept a
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on JAVA Projects
 
+### Skills
 
 
 
