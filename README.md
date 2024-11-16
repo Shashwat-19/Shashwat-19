@@ -3,7 +3,8 @@
 </h1>
 
 
-
+UI/UX Designer | Web Developer
+------------------------------
 
 
 
