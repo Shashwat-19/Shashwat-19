@@ -12,7 +12,7 @@ A creative and versatile web designer with a strong foundation in UX/UI, adept a
 
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [Linkedin.!](http://https://www.linkedin.com/in/shashwatk1956/)
-* ✉️  You can contact me at [Mail](mailto:shashwat1956@gmail.com)
+* ✉️  You can contact me at [shashwat1956@gmail.com](mailto:shashwat1956@gmail.com)
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on JAVA Projects
 
