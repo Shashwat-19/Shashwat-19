@@ -53,48 +53,23 @@ Seasoned event coordinator known for **spearheading team projects** and enhancin
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </p>
 
----
-
-### 📱 Connect with Me:
-
-<p align="left"> 
-    <a href="https://www.github.com/Shashwat-19" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </a> 
-    <a href="https://www.instagram.com/shashwat.56" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
-    </a> 
-    <a href="https://www.linkedin.com/in/shashwatk1956" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </a>
-</p>
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shashwat-19&show_icons=true&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" alt="Shashwat-19's GitHub stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwat-19&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shashwat-19&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</p>
 
 ---
 
 ## 📩 Contact  
-### Shashwat 
-*Developer | Java Enthusiast | Cloud Learner*  
+### Shashwat
+**Software Developer | Cloud & DevOps Enthusiast**
 
-🔹 *Building Scalable Applications with Java*  
-🔹 *Exploring Cloud, Docker & DevOps*  
-🔹 *Open Source Contributor & Tech Explorer*  
+**🔹 Java Backend Development**<br>
+**🔹 Cloud Architecture & Containerization**<br>
+**🔹 DevOps & Scalable Systems**
 
-📌 *Find me here:*  
-[GitHub](https://github.com/Shashwat-19) | [LinkedIn](https://www.linkedin.com/in/shashwatk1956/) | [Email Me](mailto:shashwat1956@gmail.com)
+### 🚀 Open Source | Tech Innovation
+
+Passionate about building scalable applications and contributing to transformative tech solutions.
+
+### 📌 Find me here:
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Shashwat-19)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shashwatk1956/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shashwat1956@gmail.com)
 
