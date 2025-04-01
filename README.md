@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Shashwat.!;" />
 </h1>
 
-## UI/UX Designer | Web Developer
+
 
 A creative and versatile web designer with a strong foundation in UX/UI, adept at crafting engaging digital experiences using **HTML, CSS, and JavaScript**. Competent in multiple programming languages such as **Python, Java, Kotlin, C, and C++**, with a knack for translating technical expertise into meaningful solutions. 
 
