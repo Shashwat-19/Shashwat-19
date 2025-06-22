@@ -17,7 +17,7 @@
   <a href="https://hashnode.com/@Shashwat56">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://shashwat-19.github.io/">
+  <a href="https://shashwat-19.github.io/Personal-website/">
     <img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
 </p>
