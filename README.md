@@ -87,12 +87,6 @@ const shashwat = {
 
 ---
 
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwat-19&theme=dark&hide_border=true" />
-</p>
-
 <p align="center">
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat-19&bg_color=1f1f1f&color=ffffff&line=blueviolet&point=bbbbbb&area=true&hide_border=true" />
