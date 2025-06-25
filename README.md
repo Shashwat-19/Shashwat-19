@@ -43,7 +43,18 @@ A **creative and versatile developer** with a strong focus on **UI/UX design** a
   </a>
 </div>
 
+---
 
+Shashwat.js
+```javascript
+const shashwat = {
+  pronouns: "he" | "him",
+  nationality: "India",
+  code: ["JavaScript", "HTML", "CSS", "Python", "Java", "TypeScript"],
+  tools: ["React", "Node.js", "Next.js", "TailwindCSS", "Pandas", "FastAPI", "Firebase", "Figma"],
+  building: "to be revealed..."
+};
+```
 ## 🚀 Skills & Technologies
 
 ### 💻 Programming Languages
