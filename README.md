@@ -34,6 +34,16 @@ A **creative and versatile developer** with a strong focus on **UI/UX design** a
 
 ---
 
+<div align="left">
+  <a href="https://github.com/Shashwat-19/github-readme-stats">
+    <!-- Streak Stats -->
+    <img height="150" src="https://streak-stats.demolab.com?user=Shashwat-19&locale=en&mode=daily&theme=github_dark_dimmed" alt="streak graph"/>
+    <!-- Top Languages -->
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-19&theme=github_dark_dimmed&card_width=320&layout=compact" alt="languages"/>
+  </a>
+</div>
+
+
 ## 🚀 Skills & Technologies
 
 ### 💻 Programming Languages
