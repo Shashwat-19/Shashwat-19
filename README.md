@@ -36,9 +36,7 @@ A **creative and versatile developer** with a strong focus on **UI/UX design** a
 
 <div align="left">
   <a href="https://github.com/Shashwat-19/github-readme-stats">
-    <!-- Streak Stats -->
     <img height="150" src="https://streak-stats.demolab.com?user=Shashwat-19&locale=en&mode=daily&theme=github_dark_dimmed" alt="streak graph"/>
-    <!-- Top Languages -->
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-19&theme=github_dark_dimmed&card_width=320&layout=compact" alt="languages"/>
   </a>
 </div>
@@ -50,8 +48,8 @@ Shashwat.js
 const shashwat = {
   pronouns: "he" | "him",
   nationality: "India",
-  code: ["JavaScript", "HTML", "CSS", "Python", "Java", "TypeScript"],
-  tools: ["React", "Node.js", "Next.js", "TailwindCSS", "Pandas", "FastAPI", "Firebase", "Figma"],
+  code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C", "C++"],
+  tools: ["React", "Node.js", "Next.js", "Firebase", "Figma"],
   building: "to be revealed..."
 };
 ```
@@ -88,12 +86,10 @@ const shashwat = {
 ---
 
 <p align="center">
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat-19&bg_color=1f1f1f&color=ffffff&line=blueviolet&point=bbbbbb&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Shashwat-19&theme=onedark&margin-w=10&margin-h=10" />
 </p>
 
