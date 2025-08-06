@@ -93,6 +93,18 @@ const shashwat = {
   <img src="https://github-profile-trophy.vercel.app/?username=Shashwat-19&theme=onedark&margin-w=10&margin-h=10" />
 </p>
 
+---
+
+## 🏅 Certifications & Leadership
+
+- **Sound Engineering** (Certified)
+- **UI/UX Design** (Certified)
+- **Stage Management** (Leadership role in university-level club)
+
+---
+
+
+
 
 ## 📩 Contact  
 ### Shashwat  
