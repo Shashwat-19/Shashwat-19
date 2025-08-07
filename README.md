@@ -102,8 +102,16 @@ const shashwat = {
 - **Stage Management** (Leadership role in university-level club)
 
 ---
+## 💬 Let's Build Together
 
+**Looking to collaborate on:**
+- 🏗️ Scalable backend architectures
+- ☁️ Cloud-native applications  
+- 🎨 Design system implementations
+- 🤖 AI/ML integration projects
 
+- Available for: Documentation, Collaborations, Hackathon partnerships.
+---
 
 
 ## 📩 Contact  
