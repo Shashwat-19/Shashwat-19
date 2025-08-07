@@ -29,8 +29,6 @@
 A **creative and versatile developer** with a strong focus on **UI/UX design** and a growing passion for **Java backend development** and **cloud infrastructure**. I enjoy transforming ideas into full-fledged digital experiences that are both functional and aesthetic.
 
 ### 📍 Based in Bangalore, India  
-### 🧠 Currently diving deep into React and DevOps  
-### 🤝 Open to collaboration on Java and Cloud-based projects
 
 ---
 
