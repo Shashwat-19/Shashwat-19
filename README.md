@@ -114,14 +114,16 @@ const shashwat = {
 
 ## 📩 Contact  
 ### Shashwat  
-**Software Developer | Cloud & DevOps Enthusiast**
+**Python & Java Developer | Cloud & NoSQL Enthusiast**  
 
-**🔹 Java Backend Development**<br>
-**🔹 Cloud Architecture & Containerization**<br>
-**🔹 DevOps & Scalable Systems**
+- **Python & Java Development** – Automation, Backend Systems, APIs, and OOP  
+- **Cloud & NoSQL** – Docker, AWS, MongoDB, Firebase Firestore  
+- **UI/UX Design** – Creating user-focused, scalable, and visually engaging applications  
 
-### 🚀 Open Source | Tech Innovation  
-Passionate about building scalable applications and contributing to transformative tech solutions.
+---
+
+## 🚀 Open Source | Tech Innovation  
+Passionate about creating robust applications and leveraging cloud technologies for high-performance solutions.
 
 Feel free to connect for tech collaborations, open-source contributions, or brainstorming innovative solutions!
 
