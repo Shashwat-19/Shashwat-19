@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-A **creative and versatile developer** with a strong focus on **UI/UX design** and a growing passion for **Java backend development** and **cloud infrastructure**. I enjoy transforming ideas into full-fledged digital experiences that are both functional and aesthetic.
+A creative and versatile developer with a strong focus on UI/UX design and a growing expertise in Python, cloud infrastructure, and NoSQL databases. I enjoy transforming ideas into robust, scalable, and visually engaging digital experiences that blend functionality with aesthetics.
 
 ### 📍 Based in Bangalore, India  
 
