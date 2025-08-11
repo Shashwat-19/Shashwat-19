@@ -20,6 +20,9 @@
   <a href="https://shashwat-19.github.io/Personal-website/">
     <img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
+   <a href="https://www.hackerrank.com/profile/shashwat1956">
+    <img src="https://img.shields.io/badge/HackerRank-15%2B-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
 </p>
 
 ---
