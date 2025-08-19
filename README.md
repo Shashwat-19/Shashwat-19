@@ -98,9 +98,16 @@ const shashwat = {
 
 ## 🏅 Certifications & Leadership
 
-- **Sound Engineering** (Certified)
-- **UI/UX Design** (Certified)
-- **Stage Management** (Leadership role in university-level club)
+- **Sound Engineering** – Certified
+- **UI/UX Design** – Certified (Great Learning)
+- **Generative AI** – Google (Great Learning, Dec 2023 · Exp. Dec 2023)
+- Skills: Software Testing, Mobile Application Design, UI/UX Design, Web Design, Graphic Design
+- **Back-end Frameworks and APIs** – LNT Group (Mar 2024 · Exp. May 2024)
+-Skills: ASP.NET Web API
+**Software Design and Development** – Infosys (Issued Oct 2024)
+Skills: OOP, Software Development, Software Design
+### Leadership
+- **Stage Management** – Leadership role in University-level Club (Christ University)
 
 ---
 ## 💬 Let's Build Together
