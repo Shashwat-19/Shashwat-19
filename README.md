@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Shashwat!" />
 </h1>
 
-<h3 align="center">UI/UX Designer | Web Developer | Cloud Enthusiast</h3>
+<h3 align="center">Java Developer | Frontend Developer | Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Shashwat-19">
