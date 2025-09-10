@@ -34,7 +34,21 @@ A creative and versatile developer with a strong focus on UI/UX design and a gro
 ### 📍 Based in Bangalore, India  
 
 ---
+<div align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashwat-19&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashwat-19&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shashwat-19&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashwat-19&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shashwat-19&theme=github_dark)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashwat-19&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashwat-19&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/Shashwat-19/github-readme-activity-graph)
+
+</div>
 <div align="left">
   <a href="https://github.com/Shashwat-19/github-readme-stats">
     <img height="150" src="https://streak-stats.demolab.com?user=Shashwat-19&locale=en&mode=daily&theme=github_dark_dimmed" alt="streak graph"/>
