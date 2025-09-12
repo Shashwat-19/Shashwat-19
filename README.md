@@ -130,11 +130,11 @@ Skills: OOP, Software Development, Software Design
 
 ## 📩 Contact  
 ### Shashwat  
-**Python & Java Developer | Cloud & NoSQL Enthusiast**  
+**Java Developer | Cloud & NoSQL Enthusiast**  
 
-- **Python & Java Development** – Automation, Backend Systems, APIs, and OOP  
-- **Cloud & NoSQL** – Docker, AWS, MongoDB, Firebase Firestore  
-- **UI/UX Design** – Creating user-focused, scalable, and visually engaging applications  
+🔹 **Java** – OOP, Backend Systems, APIs, Automation  
+🔹 **Cloud & NoSQL** – Docker, AWS, MongoDB, Firebase Firestore  
+🔹 **UI/UX Design** – Scalable, user-focused, and visually engaging apps  
 
 ---
 
