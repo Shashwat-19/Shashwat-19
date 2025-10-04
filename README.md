@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-A creative and versatile developer with a strong focus on UI/UX design and a growing expertise in Python, cloud infrastructure, and NoSQL databases. I enjoy transforming ideas into robust, scalable, and visually engaging digital experiences that blend functionality with aesthetics.
+A versatile Java developer with a strong foundation in OOP and backend development, skilled in Firebase Authentication and Firestore integration. Passionate about building scalable, secure, and efficient applications while creating engaging frontend experiences. Exploring cloud technologies to enhance deployment, performance, and reliability.
 
 ### 📍 Based in Bangalore, India  
 ![Profile views](https://komarev.com/ghpvc/?username=Shashwat-19&color=blue&style=flat)
