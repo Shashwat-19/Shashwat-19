@@ -33,7 +33,7 @@
 
 A versatile Java developer with a strong foundation in OOP and backend development, skilled in Firebase Authentication and Firestore integration. Passionate about building scalable, secure, and efficient applications while creating engaging frontend experiences. Active open source contributor and exploring cloud technologies to enhance deployment, performance, and reliability.
 
- 
+### 📍 Based in Bangalore, India 
 ![Profile views](https://komarev.com/ghpvc/?username=Shashwat-19&color=blue&style=flat)
 
 
