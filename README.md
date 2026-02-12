@@ -180,19 +180,29 @@ Skills: OOP, Software Development, Software Design
 
 
 ## 📩 Contact  
+
 ### Shashwat  
-**Java Developer | Cloud & NoSQL Enthusiast**  
+**Machine Learning Engineer | Applied AI & Scalable ML Systems**
 
-🔹 **Java** – OOP, Backend Systems, APIs, Automation  
-🔹 **Cloud & NoSQL** – Docker, AWS, MongoDB, Firebase Firestore  
-🔹 **UI/UX Design** – Scalable, user-focused, and visually engaging apps  
+🔹 **Machine Learning** – Supervised Learning, Model Evaluation, Feature Engineering, SVM, Classification Systems  
+🔹 **Applied AI** – NLP, Video Intelligence, AI-driven Automation, Intelligent System Design  
+🔹 **ML Engineering** – Model Deployment, REST APIs for Inference, Dockerized Pipelines  
+🔹 **Data Systems** – MongoDB, Firebase, Structured Data Processing  
+
+---
+
+## 🚀 AI Systems | Production-Grade Intelligence  
+
+Designing and deploying real-world AI systems with focus on correctness, scalability, and measurable performance.
 
 ---
 
-## 🚀 Open Source | Tech Innovation  
-Passionate about creating robust applications and leveraging cloud technologies for high-performance solutions.
+### 📌 Connect with Me  
 
-Feel free to connect for tech collaborations, open-source contributions, or brainstorming innovative solutions!
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashwat-19)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwatk1956/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwat1956@gmail.com)  
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Shashwat56)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-15%2B-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shashwat1956)
 
----
 
