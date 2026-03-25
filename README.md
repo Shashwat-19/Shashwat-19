@@ -39,18 +39,23 @@
 </p>
 
 ---
+
 <table>
   <tr>
     <td width="60%">
-## 👨‍💻 About Me
 
+<h2>👨‍💻 About Me</h2>
+
+<p>
 A versatile Java developer with a strong foundation in OOP and backend development, skilled in Firebase Authentication and Firestore integration. Passionate about building scalable, secure, and efficient applications while creating engaging frontend experiences. Active open source contributor and exploring cloud technologies to enhance deployment, performance, and reliability.
+</p>
 
-</td>
+    </td>
 
     <td width="40%">
       <img src="https://raw.githubusercontent.com/Shashwat-19/Shashwat-19/main/assets/side-banner.jpeg" width="100%" />
     </td>
+
   </tr>
 </table>
 
