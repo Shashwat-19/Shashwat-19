@@ -173,14 +173,14 @@ const shashwat = {
 
 ## 📩 Contact
 
-### Shashwat
+## Shashwat
 
-**Machine Learning Engineer | Applied AI & Scalable ML Systems**
+**Machine Learning Engineer | Scalable AI Systems**
 
-🔹 **Machine Learning** – Supervised Learning, Model Evaluation, Feature Engineering, SVM, Classification Systems  
-🔹 **Applied AI** – NLP, Video Intelligence, AI-driven Automation, Intelligent System Design  
-🔹 **ML Engineering** – Model Deployment, REST APIs for Inference, Dockerized Pipelines  
-🔹 **Data Systems** – MongoDB, Firebase, Structured Data Processing
+🔹 **ML systems:** (CV, NLP) + data pipelines<br>
+🔹 **End-to-end:** training → deployment<br>
+🔹 **Backend & Cloud:** Python, Flask, Node.js, Docker, AWS<br>
+🔹 **Projects:** Traffic AI, Video Summarizer, AI Assistants<br>
 
 ---
 
