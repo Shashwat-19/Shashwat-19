@@ -6,7 +6,7 @@
 </h1> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shashwat-19/Shashwat-19/main/assets/banner.jpeg" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Shashwat-19/Shashwat-19/main/assets/banner.jpg" alt="banner" width="100%" />
 </p>
 
 <br>
