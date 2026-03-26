@@ -57,7 +57,7 @@ I’ve built systems such as real-time traffic classification using live APIs, A
 </td>
 
 <td width="40%" valign="top">
-<br><br><br><br>
+<br><br><br>
 <img src="https://raw.githubusercontent.com/Shashwat-19/Shashwat-19/main/assets/side-banner.jpeg" width="100%">
 </td>
 
