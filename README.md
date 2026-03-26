@@ -40,30 +40,29 @@
 
 ---
 
-<div align="left">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 <h2>👨‍💻 About Me</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-<div style="flex: 1;">
-
 <p>
-I’m a Machine Learning Engineer focused on designing and deploying scalable AI systems. My work spans the full ML lifecycle—from data collection and preprocessing to model development (Computer Vision, NLP) and production deployment using Python, Flask, Docker, and cloud platforms.
+I’m a Machine Learning Engineer focused on designing and deploying scalable AI systems. My work spans the full ML lifecycle from data collection and preprocessing to model development (Computer Vision, NLP) and production deployment using Python, Flask, Docker, and cloud platforms.
 </p>
 
 <p>
 I’ve built systems such as real-time traffic classification using live APIs, AI video summarization with transcription pipelines, and intelligent data-driven applications, with a strong emphasis on model performance, system scalability, and reliable deployment.
 </p>
 
-</div>
+</td>
 
-<div style="flex: 1;">
+<td width="40%" valign="top">
+<br><br><br><br>
 <img src="https://raw.githubusercontent.com/Shashwat-19/Shashwat-19/main/assets/side-banner.jpeg" width="100%">
-</div>
+</td>
 
-</div>
-</div>
+</tr>
+</table>
 
 ### 📍 Based in Bangalore, India
 
