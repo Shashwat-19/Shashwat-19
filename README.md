@@ -177,19 +177,14 @@ const shashwat = {
 - **Stage Management** – Leadership role in University-level Club (Christ University)
 
 ---
+## 🎯 Focus
 
-## 💬 Let's Build Together
+Building production-grade AI systems that integrate clean backend architecture with practical machine learning.
 
-**Looking to collaborate on:**
-
-- Scalable backend architectures
-- Cloud-native applications
-- Design system implementations
-- AI/ML integration projects
-
-- Available for: Documentation, Collaborations, Hackathon partnerships.
-
----
+Interested in:
+- ML system design & deployment
+- Backend-heavy AI applications
+- Scalable, real-world problem solving
 
 ## 📩 Contact
 
