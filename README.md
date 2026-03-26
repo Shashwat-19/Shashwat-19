@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=3500&pause=800&color=00C2FF&lines=Hi+There!+👋;I'm+Shashwat;Welcome+to+my+GitHub+🚀" />
 </h1>
 
-<h3 align="center">Java Developer | Frontend Developer | Cloud Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer | Scalable AI Systems | MLOps & Deployment</h3>
 
 <p align="center">
   <a href="https://github.com/Shashwat-19">
@@ -47,11 +47,11 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I’m a Machine Learning Engineer building scalable AI systems with strong full-stack foundations. I work end-to-end—from data pipelines and model development (CV, NLP) to deployment using Python, Flask, Node.js, Docker, and cloud platforms.
+I’m a Machine Learning Engineer focused on designing and deploying scalable AI systems. My work spans the full ML lifecycle—from data collection and preprocessing to model development (Computer Vision, NLP) and production deployment using Python, Flask, Docker, and cloud platforms.
 </p>
 
 <p>
-I’ve built systems like real-time traffic classification, AI video summarization with transcription, and RBAC architectures, focusing on performance, reliability, and production-grade design.
+I’ve built systems such as real-time traffic classification using live APIs, AI video summarization with transcription pipelines, and intelligent data-driven applications, with a strong emphasis on model performance, system scalability, and reliable deployment.
 </p>
 
 </td>
