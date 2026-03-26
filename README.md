@@ -41,22 +41,27 @@
 ---
 
 <table>
-  <tr>
-    <td width="60%">
+<tr>
+<td width="60%" valign="top">
 
 <h2>👨‍💻 About Me</h2>
 
 <p>
-A versatile Java developer with a strong foundation in OOP and backend development, skilled in Firebase Authentication and Firestore integration. Passionate about building scalable, secure, and efficient applications while creating engaging frontend experiences. Active open source contributor and exploring cloud technologies to enhance deployment, performance, and reliability.
+I’m a Machine Learning Engineer building scalable AI systems with strong full-stack foundations. I work end-to-end—from data pipelines and model development (CV, NLP) to deployment using Python, Flask, Node.js, Docker, and cloud platforms.
 </p>
 
-    </td>
+<p>
+I’ve built systems like real-time traffic classification, AI video summarization with transcription, and RBAC architectures, focusing on performance, reliability, and production-grade design.
+</p>
 
-    <td width="40%">
-      <img src="https://raw.githubusercontent.com/Shashwat-19/Shashwat-19/main/assets/side-banner.jpeg" width="100%" />
-    </td>
+</td>
 
-  </tr>
+<td width="40%" valign="top">
+<br><br><br><br>
+<img src="https://raw.githubusercontent.com/Shashwat-19/Shashwat-19/main/assets/side-banner.jpeg" width="100%">
+</td>
+
+</tr>
 </table>
 
 ### 📍 Based in Bangalore, India
