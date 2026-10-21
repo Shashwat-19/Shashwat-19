@@ -85,6 +85,20 @@ I’ve built systems such as real-time traffic classification using live APIs, A
 </div>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashwat-19&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashwat-19&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/Shashwat-19/github-readme-activity-graph)
+
+## The city I built this year
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution city" width="100%" />
+  <br>
+  <sub>Every building is a day; taller means more contributions.</sub>
+</p>
+----
 
 Shashwat.js
 
@@ -153,11 +167,6 @@ const shashwat = {
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashwat-19&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
-</p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashwat-19&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/Shashwat-19/github-readme-activity-graph)
 
 ---
 
