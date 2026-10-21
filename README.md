@@ -104,11 +104,23 @@ Shashwat.js
 
 ```javascript
 const shashwat = {
-  pronouns: "he" | "him",
+  pronouns: ["he", "him"],
   nationality: "India",
-  code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C", "C++"],
-  tools: ["React", "Node.js", "Next.js", "Firebase", "Figma"],
-  building: "to be revealed...",
+  location: "Bengaluru",
+  education: "BCA (Hons), CHRIST (Deemed to be University)",
+  languages: ["Python", "TypeScript", "JavaScript", "Java", "C++", "SQL"],
+  ml: ["TensorFlow", "Keras", "PyTorch", "YOLO", "OpenCV", "BLIP-2"],
+  backend: ["FastAPI", "Node.js", "Express", "REST APIs"],
+  frontend: ["React", "HTML", "CSS"],
+  data: ["PostgreSQL", "MongoDB", "Supabase"],
+  infra: ["Docker", "AWS", "Git"],
+  building: [
+    "Adaptive keyframe selection for video captioning (MSVD)",
+    "TrafficSense AI: Bangalore traffic monitoring on AWS",
+    "YOLO-based ANPR for Indian number plates",
+  ],
+  learning: ["NumPy", "pandas", "Stanford CS229"],
+  goal: "ML engineer, then my own ventures",
 };
 ```
 
